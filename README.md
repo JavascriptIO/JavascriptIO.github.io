@@ -1,7 +1,7 @@
-javascript.github.io
-====================
+javascriptIO
+============
 
-JavascriptIO son unas charlas online sobre Javascript abiertas a colaboración. Puedes echar un vistazo a las charlas ya realizadas o bien al manual de [cómo colaborar](https://Como-Colaborar.github.com/JavascriptIO/) si estás interesado en compartir tu conocimiento con la comunidad de [@javascriptIO](https://twitter.com/javascriptio).
+Son unas charlas online sobre Javascript abiertas a colaboración. Puedes echar un vistazo a las charlas ya realizadas o bien al manual de [cómo colaborar](https://Como-Colaborar.github.com/JavascriptIO/) si estás interesado en compartir tu conocimiento con la comunidad de [@javascriptIO](https://twitter.com/javascriptio).
 
 Los propietarios de esta organización son:
 * [CKGrafico](https://github.com/CKGrafico)
