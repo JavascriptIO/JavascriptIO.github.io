@@ -10,13 +10,13 @@ Los propietarios de esta organización son:
 
 Como Javascript es muy extenso hemos dedicido dividir las charlas por temáticas. Acontinuación te mostramos sobre las que ya hemos hablado, pero estamos abiertos tanto a incluir más charlas en estas temáticas como incluir más temáticas si tu charla no se adapta a ninguna existente.
 
-## jQuery: [sorce](http://github.com/JavascriptIO/jQuery) • [page](http://JavascriptIO.github.io/jQuery)
+## jQuery: [source](http://github.com/JavascriptIO/jQuery) • [page](http://JavascriptIO.github.io/jQuery)
 ### Miembros
 * [CKGrafico](https://github.com/CKGrafico)
-* [jorgecasar](https://github.com/CKGrafico)
+* [jorgecasar](https://github.com/jorgecasar)
 
-## Buenas prácticas: [sorce](http://github.com/JavascriptIO/Buenas-Practicas) • [page](http://JavascriptIO.github.com/Buenas-Practicas)
+## Buenas prácticas: [source](http://github.com/JavascriptIO/Buenas-Practicas) • [page](http://JavascriptIO.github.com/Buenas-Practicas)
 ### Miembros
 * [CKGrafico](https://github.com/CKGrafico)
-* [jorgecasar](https://github.com/CKGrafico)
+* [jorgecasar](https://github.com/jorgecasar)
 * [eiximenis](https://github.com/eiximenis)
