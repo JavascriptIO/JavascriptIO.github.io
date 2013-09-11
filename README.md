@@ -6,7 +6,7 @@ Son unas charlas online sobre Javascript abiertas a colaboración. Puedes echar 
 Los propietarios de esta organización son:
 * [CKGrafico](https://github.com/CKGrafico)
 * [desarrollowebcom](https://github.com/CKGrafico)
-* [jorgecasar](https://github.com/CKGrafico)
+* [jorgecasar](https://github.com/jorgecasar)
 
 Como Javascript es muy extenso hemos dedicido dividir las charlas por temáticas. Acontinuación te mostramos sobre las que ya hemos hablado, pero estamos abiertos tanto a incluir más charlas en estas temáticas como incluir más temáticas si tu charla no se adapta a ninguna existente.
 
